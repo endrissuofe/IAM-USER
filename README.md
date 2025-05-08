@@ -1,6 +1,4 @@
-I'll create a README.md for the IAM security project using first person pronouns, similar to the AWS account creation project.
-
-# My AWS Identity and Access Management (IAM) Project for Zappy e-Bank
+# AWS Identity and Access Management (IAM) Project.
 
 ## Overview
 I'll guide you through implementing AWS Identity and Access Management (IAM) for a hypothetical fintech startup called Zappy e-Bank. I'll demonstrate how to create and manage secure access to AWS resources using IAM users, groups, policies, and Multi-Factor Authentication (MFA).
